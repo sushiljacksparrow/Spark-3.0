@@ -1,2 +1,3 @@
 # Spark-3.0
-spark images
+- `docker build . -t spark`
+- `<user_name>/spark:<tag>`
